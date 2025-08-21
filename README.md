@@ -1,4 +1,4 @@
-WIP - Under construction 🚧 🛠️🛠️🛠️🛠️ 🚧
+# WIP - Under construction 🚧 🛠️🛠️🛠️🛠️ 🚧 #
 
 # 💧 LiquidQA — Test Automation by Stoyan
 
@@ -41,7 +41,7 @@ Built with:
 
 | Name                          | Description                              | URL |
 |-------------------------------|------------------------------------------|-----|
-| `liquidqa-test-automation`    | Playwright UI automation demo            | (https://app.liquidqa.com) |
+| `liquidqa-test-automation`    | Playwright UI automation demo            | (https://demoApp.liquidqa.com) |
 | `liquidqa-site` (this repo)   | Brand landing page and portfolio         | (https://liquidqa.com)|
 
 ---
