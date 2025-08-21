@@ -68,6 +68,18 @@ header {
   border-radius: 5px;
 }
 
+.contact-flex {
+  display: flex;
+  gap: 2rem; /* разстояние между двете колони */
+  justify-content: center;
+  flex-wrap: wrap; /* ако е твърде тясно, ще падне на нов ред */
+}
+
+.contact-block {
+  flex: 1 1 300px; /* минимална ширина на блока */
+  max-width: 400px;
+}
+
 footer {
   background: #1a1a1a;
   text-align: center;
@@ -75,3 +87,5 @@ footer {
   font-size: 0.9rem;
   color: #999;
 }
+
+
