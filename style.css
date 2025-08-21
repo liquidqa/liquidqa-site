@@ -72,7 +72,7 @@ header {
   display: flex;
   gap: 2rem; /* разстояние между двете колони */
   justify-content: center;
-  flex-wrap: wrap; /* ако е твърде тясно, ще падне на нов ред */
+  flex-wrap: nowrap; /* ако е твърде тясно, ще падне на нов ред */
 }
 
 .contact-block {
