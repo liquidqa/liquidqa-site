@@ -1,20 +1,48 @@
-# 🔎 LiquidQA — UI Test Automation with Playwright & TypeScript
+# 💧 LiquidQA — Quality Automation by Stoyan
 
-UI automation project using Playwright with TypeScript, targeting a demo frontend application.
+Welcome to **LiquidQA** - frontend test automation, tooling, and hands-on examples for upskilling as a Test Automation Engineer.
 
-This project showcases real-world testing practices such as selectors strategy, test isolation, test data management, 
-and GitHub Actions CI integration.
-
----
-
-## 🚀 Tech Stack
-
-- ✅ Playwright (Chromium, Firefox, WebKit)
-- ✅ TypeScript
-- ✅ Playwright Test Runner
-- ✅ GitHub Actions (CI)
-- ✅ HTML Report & Trace Viewer
+🌐 Live site: [https://liquidqa.com]
 
 ---
 
-## 📂 Project Structure
+## 🧠 What is LiquidQA?
+
+LiquidQA is both a personal brand and a knowledge base for:
+
+- 🎯 UI Test Automation (Playwright + TypeScript)
+- 💡 Real-world testing strategies
+- 📈 Showcasing clean, scalable automation projects
+- 🎓 Learning and upskilling in QA automation
+
+---
+
+## 🏗 What's inside this site?
+
+This  a **landing page + portfolio hub**, built to:
+
+- Present the QA engineer behind the brand
+- Link to demo apps, test repos, and docs
+- Display tools, workflows, and automation skills
+- Provide contact info and social links
+
+Built with:
+
+- ✅ HTML5 + CSS3 
+- ✅ Fully deployable via GitHub Pages
+- ✅ CNAME → `liquidqa.com`
+
+---
+
+## 🔗 Related Projects
+
+| Name                          | Description                              | URL |
+|-------------------------------|------------------------------------------|-----|
+| `liquidqa-test-automation`    | Playwright UI automation demo            | [app.liquidqa.com] |
+| `liquidqa-site` (this repo)   | Brand landing page and portfolio         | [liquidqa.com] |
+
+---
+
+## 📥 Getting Started 
+
+
