@@ -1,4 +1,6 @@
-# 💧 LiquidQA — Quality Automation by Stoyan
+WIP - Under construction 🚧 🛠️🛠️🛠️🛠️ 🚧
+
+# 💧 LiquidQA — Test Automation by Stoyan
 
 Welcome to **LiquidQA** - frontend test automation, tooling, and hands-on examples for upskilling as a Test Automation Engineer.
 
@@ -6,6 +8,7 @@ Welcome to **LiquidQA** - frontend test automation, tooling, and hands-on exampl
 
 ---
 
+## 🧠 What is LiquidQA?
 ## 🧠 What is LiquidQA?
 
 LiquidQA is both a personal brand and a knowledge base for:
@@ -38,8 +41,8 @@ Built with:
 
 | Name                          | Description                              | URL |
 |-------------------------------|------------------------------------------|-----|
-| `liquidqa-test-automation`    | Playwright UI automation demo            | [app.liquidqa.com] |
-| `liquidqa-site` (this repo)   | Brand landing page and portfolio         | [liquidqa.com] |
+| `liquidqa-test-automation`    | Playwright UI automation demo            | (https://app.liquidqa.com) |
+| `liquidqa-site` (this repo)   | Brand landing page and portfolio         | (https://liquidqa.com)|
 
 ---
 
