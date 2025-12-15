@@ -11,7 +11,7 @@ Welcome to **LiquidQA — Test Automation & Knowledge Base**
 ---
 
 ## What is LiquidQA?
-Frontend test automation, tooling, and hands-on examples for upskilling as a Test Automation Engineer.
+Frontend test automation, tooling, and hands-on examples for upskilling as a Test Automation Engineer. 
 LiquidQA is a knowledge base (with the goal to grow to a personal brand) for:
 
 - 🎓 Learning and upskilling in QA automation
@@ -40,18 +40,33 @@ LiquidQA is a knowledge base (with the goal to grow to a personal brand) for:
 
 ---
 
-# LiquidQA Ecosystem
+# 🗺 LiquidQA Ecosystem
+
+Quick Map Navigation
+```
+💧 Main Site
+│
+├─ 🧪 Test Automation
+├─ ⚙️ Demo App 
+├─ 📚 Wiki / Knowledge Base 
+│
+├─ 🌍 Places  
+└─ 🌍 Stocks Tracker
+
+```
+
+----
 
 ## 🔗 Related Projects
 
-| Name                        | Description                              | Repo | URL |
-|-----------------------------|------------------------------------------|------|-----|
-| `liquidqa-site` (this repo) | Brand landing page and portfolio         | [Repo](https://github.com/liquidqa/liquidqa-site) | (https://liquidqa.com) |
-| `liquidqa-test-automation`  | Playwright UI automation demo  | [Repo](https://github.com/liquidqa/liquidqa-test-automation) | - |
-| `stocks-tracker`            | Stocks tracker project / demo            | [Repo](https://github.com/liquidqa/stocks-tracker) | (https://tracker.liquidqa.com) |
-| `toDoPlaces`                | Location / travel tracker WIP            | [Repo](https://github.com/liquidqa/toDoPlaces) | (https://travel.liquidqa.com) |
-| `liquidqa-wiki`             | Personal Knowledge Base (MD notes, private) | [Repo](https://github.com/liquidqa/liquidqa-wiki) | [Wiki](https://wiki.liquidqa.com) |
-| `demoApp`                   | Angular demo application; target for Playwright tests | [Repo](https://github.com/liquidqa/demoApp) | - |
+| Name                        | Description                              | Repo | URL | Status | 
+|-----------------------------|------------------------------------------|------|-----|--------|
+| `liquidqa-site` (this repo) | Brand landing page and portfolio         | [Repo](https://github.com/liquidqa/liquidqa-site) | (https://liquidqa.com) | Live / WIP |
+| `liquidqa-test-automation`  | Playwright UI automation demo  | [Repo](https://github.com/liquidqa/liquidqa-test-automation) | - | WIP |
+| `stocks-tracker`            | Stocks tracker project / demo            | [Repo](https://github.com/liquidqa/stocks-tracker) | (https://tracker.liquidqa.com) | Live / WIP |
+| `toDoPlaces`                | Location / travel tracker WIP            | [Repo](https://github.com/liquidqa/toDoPlaces) | (https://travel.liquidqa.com) | Live / WIP |
+| `liquidqa-wiki`             | Personal Knowledge Base (MD notes, private) | [Repo](https://github.com/liquidqa/liquidqa-wiki) | [Wiki](https://wiki.liquidqa.com) | ToDO |
+| `demoApp`                   | Angular demo application; target for Playwright tests | [Repo](https://github.com/liquidqa/demoApp) | - | Live |
 
 
 ## 💻 Main Site
@@ -96,14 +111,14 @@ Built with:
 - Locations tracker / WIP
 - Linked from main site
 
-## 🌍 Tracker for stocks
+## 🌍 Tracker for stocks 📥
 - Repo: stocks-tracker
 - Stocks tracker
 - Linked from main site
 ---
 
 
-## 📥 Getting Started 
+  
 
 
 
