@@ -1,38 +1,42 @@
-# WIP - Under construction 🚧 🛠️🛠️🛠️🛠️ 🚧 #
+🚧 Under construction 🛠️ WIP 🛠️ Under construction 🚧
 
-# 💧 LiquidQA — Test Automation by Stoyan
+---
 
-Welcome to **LiquidQA** - frontend test automation, tooling, and hands-on examples for upskilling as a Test Automation Engineer.
+# 💧 LiquidQA
+
+Welcome to **LiquidQA — Test Automation & Knowledge Base** 
 
 🌐 Live site: [https://liquidqa.com]
 
 ---
 
-## 🧠 What is LiquidQA?
+## What is LiquidQA?
+Frontend test automation, tooling, and hands-on examples for upskilling as a Test Automation Engineer.
+LiquidQA is a knowledge base (with the goal to grow to a personal brand) for:
 
-LiquidQA is both a personal brand and a knowledge base for:
-
+- 🎓 Learning and upskilling in QA automation
 - 🎯 UI Test Automation (Playwright + TypeScript)
 - 💡 Real-world testing strategies
-- 📈 Showcasing clean, scalable automation projects
-- 🎓 Learning and upskilling in QA automation
 
 ---
 
-## 🏗 What's inside this site?
+## Vision & Goal
 
-This  a **landing page + portfolio hub**, built to:
+**LiquidQA** is designed to serve multiple purposes:
 
-- Present the QA engineer behind the brand
-- Link to demo apps, test repos, and docs
-- Display tools, workflows, and automation skills
-- Provide contact info and social links
+1. **Personal Knowledge Base** - 🚧 WIP 🚧
+   - Store learnings, notes, and tutorials in one centralized, versioned place.
+   - Track progression in automation skills over time.
+   - Serve as a future-proof reference for projects and interviews.
 
-Built with:
+2. **Professional Branding - (near Future)**
+   - Showcase practical, scalable automation examples.
+   - Demonstrate end-to-end test design and best practices.
+   - Build a recognizable brand around QA expertise.
 
-- ✅ HTML5 + CSS3 
-- ✅ Fully deployable via GitHub Pages
-- ✅ CNAME → `liquidqa.com`
+3. **Community Contribution (faaaar Future)**
+   - Share insights, cheat sheets, and learning resources.
+   - Inspire other QA engineers about interesting approaches and cocepts.
 
 ---
 
@@ -51,19 +55,26 @@ Built with:
 
 
 ## 💻 Main Site
-- [liquidqa.com](https://liquidqa.com/)
-- Repo: `liquidqa-site`
-- Landing page / UI / portfolio
-- Links to all projects
+This  a **landing page + 🏗 UI hub +(eventual portfolio)**, built to:
+
+- Provide visual Hub for QA uspkiling, Projects, Wiki
+- Link to all projects: demo apps, test repos, and docs
+- Display tools, workflows, and automation skills
+- Portal to other interesting initiatives / non IT related projects
+- Provide contact info and social links
+
+Built with:
+
+- ✅ HTML + CSS
+- ✅ Fully deployable via GitHub Pages
+
 
 ## 🧪 Test Automation
-- [Repo link](https://github.com/liquidqa/liquidqa-test-automation)
 - End-to-end Playwright + TypeScript
 - First to fail in CI / test pipeline
 - Source for automation
 
 ## 📚 Wiki / Knowledge Base
-- [Wiki link](https://wiki.liquidqa.com/)
 - Repo: `liquidqa-wiki` (private)
 - MD files → static site generator
 - Password-protected / private
@@ -82,7 +93,12 @@ Built with:
 
 ## 🌍 ToDo Places / Travel
 - Repo: `toDoPlaces`
-- Location tracker / WIP
+- Locations tracker / WIP
+- Linked from main site
+
+## 🌍 Tracker for stocks
+- Repo: stocks-tracker
+- Stocks tracker
 - Linked from main site
 ---
 
